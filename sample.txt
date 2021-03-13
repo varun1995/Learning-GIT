@@ -1,0 +1,3 @@
+This is line 1 to go into commit 1
+
+This line was newly added!
